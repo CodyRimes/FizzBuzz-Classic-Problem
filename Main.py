@@ -39,3 +39,5 @@ for iteration in range(1, 101):
         print(iteration)
 
 
+#PLEASE WORK ON THIS PROBLEM FURTHER TO CORRECT THE IF STATEMENTS PRINTING DUPLICATE FIZZ and BUZZ's WHEN THE CONDITIONALS ARE MET, for example when the condition "FizzBuzz" is met,
+#with this code so is the individual conditional "Fizz" and individual conditional "Buzz", which both print out on seperate lines before "FizzBuzz" itself is printed
